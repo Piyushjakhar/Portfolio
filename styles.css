@@ -14,3 +14,9 @@
     background-color: black;
 }
 
+.text {
+position: absolute;
+left: 50px;
+top: 250px;
+
+}
