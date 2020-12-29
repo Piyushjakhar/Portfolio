@@ -29,15 +29,103 @@ body html {
 
 }
 
+@media screen and (max-width: 500px) {
+	.text {
+		padding-top: 152px;
+		padding-left: 44px;
+	}
 
 
-.text {
-
-left: 50px;
-top: 200px;
-
-
+	.line1 {
+		font-size: 40px;
+	}
+	.line2{
+		font-size: 74px;
+	}
+	.line3  {
+		font-size: 25px;
+	}
 }
+
+@media screen and (min-width: 501px) {
+	.text {
+		padding-top: 180px;
+		padding-left: 31px;
+	}
+
+
+	.line1 {
+		font-size: 50px;
+	}
+	.line2{
+		font-size: 84px;
+	}
+	.line3  {
+		font-size: 35px;
+	}
+}
+
+@media screen and (min-width: 548px) {
+	.text {
+		padding-top: 209px;
+		padding-left: 22px;
+	}
+
+
+	.line1 {
+		font-size: 50px;
+	}
+	.line2{
+		font-size: 84px;
+	}
+	.line3  {
+		font-size: 35px;
+	}
+}
+
+
+@media screen and (min-width: 768px) {
+	.text {
+		padding-top: 199px;
+		padding-left: 94px;
+	}
+	.line1 {
+	
+		font-size: 50px;
+	}
+	.line2  {
+		
+		font-size: 80px;
+	}
+	.line3  {
+		
+		font-size: 35px;
+	}
+}
+
+
+@media screen and (min-width: 1200px) {
+	.text {
+		padding-top: 216px;
+		padding-left: 118px;
+	}
+	.line1 {
+	
+		font-size: 60px;
+	}
+	.line2  {
+	
+		font-size: 90px;
+	}
+	.line3  {
+	
+		font-size: 45px;
+	}
+}
+
+
+
+
 
 
 
